@@ -1,2 +1,2 @@
-# ML_BC_Alpha_07
-ML_BC_Alpha_07
+# Touching The Surface of Supervised Machine Learning 
+Introductory boot-camp on Machine Learning. 

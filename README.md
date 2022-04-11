@@ -8,7 +8,7 @@ Copyright (c) 2022, Waterlootec Research & Development, Canada. All rights reser
 2. For commercial purposes, please reach out to the following contacts for a license:
 
     1. Author: GAN MOHIM
-       Email : `lead<at>waterlootec.com`
+       `Email : lead<at>waterlootec.com`
        
     2. Waterlootec R&D License Team
-       Email: `license<at>waterlootec.com`
+       `Email: license<at>waterlootec.com`

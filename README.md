@@ -12,3 +12,5 @@ Copyright (c) 2022, Waterlootec Research & Development, Canada. All rights reser
        
     2. Waterlootec R&D License Team
        `Email: license<at>waterlootec.com`
+       
+Feel free to contact at `connect<at>waterlootec.com`

@@ -1,7 +1,7 @@
 # Touching The Surface of Supervised Machine Learning 
 Introductory boot-camp on Machine Learning. 
 
-Copyright (c) 2022, Waterlootec Research & Development, Canada. All rights reserved.
+Copyright (c), Waterlootec Research & Development, Canada. All rights reserved.
 
 1. The content is free to share for non-profit educational purposes without modification. 
 

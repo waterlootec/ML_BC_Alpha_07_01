@@ -13,4 +13,6 @@ Copyright (c), Waterlootec Research & Development, Canada. All rights reserved.
     2. Waterlootec R&D License Team
        `Email: license<at>waterlootec.com`
        
-Feel free to contact at `connect<at>waterlootec.com`
+Feel free to contact at `connect<at>waterlootec.com`.
+
+Let our experience guide you to shape your future.

@@ -17,4 +17,6 @@ Feel free to contact at `connect<at>waterlootec.com`.
 
 Let our experience guide you to shape your future.
 
-Check our website "Waterlootec.com"
+Check our website "Waterlootec.com".
+
+Any change in the wind.
